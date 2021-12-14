@@ -1312,6 +1312,32 @@
       "latitude": "42.7072",
       "longitude": "-12.6779",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/karolkrakowiak_/128.jpg"
+    },
+    {
+      "name": "Cathryn Bogisich Sr.",
+      "dob": "1988-4-25",
+      "email": "Cathryn_Bogisich@yahoo.com",
+      "username": "Cathryn_Bogisich",
+      "password": "r29crMDPDnAf8kN",
+      "phone": "243.992.9543 x04815",
+      "streetaddress": "8471 Wolff Square",
+      "citystatezip": "Funkville, CO 33917",
+      "latitude": "76.4757",
+      "longitude": "171.5663",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dudestein/128.jpg"
+    },
+    {
+      "name": "Elise Welch",
+      "dob": "1944-6-17",
+      "email": "Elise38@hotmail.com",
+      "username": "Elise74",
+      "password": "uVrpemaClRVn6bp",
+      "phone": "1-810-596-3702 x58786",
+      "streetaddress": "317 Ryan Mews",
+      "citystatezip": "Port Callie, WY 82064",
+      "latitude": "33.7206",
+      "longitude": "-84.9332",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dss49/128.jpg"
     }
   ]
 }
